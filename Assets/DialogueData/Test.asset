@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a3440026980e99348b44a5ad66755365, type: 3}
-  m_Name: Text
+  m_Name: Test
   m_EditorClassIdentifier: 
   dialogue:
-  - dfjsfdskfjdskfjldsf
-  - dfjsfdskfjdskfjldsf
+  - ha laewel
+  - o haaa tani

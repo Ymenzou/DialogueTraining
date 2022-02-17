@@ -15,7 +15,7 @@ public class TypewriterEffect : MonoBehaviour
     {
             textLabel.text = string.Empty;
 
-            yield return new WaitForSeconds(2);
+             yield return new WaitForSeconds(2);
             
             float t = 0;
             int charIndex = 0;
