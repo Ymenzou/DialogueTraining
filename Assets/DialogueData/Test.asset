@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Test
   m_EditorClassIdentifier: 
   dialogue:
-  - ha laewel
-  - o haaa tani
+  - first
+  - second
+  - third
